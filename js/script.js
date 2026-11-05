@@ -88,7 +88,7 @@ const translations = {
 
     "hero.role": "Penggemar Teknologi & Pengembang Web Pemula",
 
-    "hero.description": "Lulusan Teknik Informatika Universitas Malikussaleh dengan IPK 3,64/4,00 yang memiliki minat pada teknologi informasi, pembelajaran mesin, analisis data, pengelolaan basis data, dan pengembangan website melalui proyek akademik. Memiliki pengalaman kerja di bidang dukungan TI dan penyuntingan media, termasuk konfigurasi perangkat, pemeliharaan website, serta publikasi konten digital. Teliti, disiplin, dan bertanggung jawab, serta berkomitmen mengikuti prosedur operasional standar (SOP), mengembangkan keterampilan teknis, dan mendukung kegiatan operasional secara profesional.",
+    "hero.description": "Lulusan Teknik Informatika Universitas Malikussaleh dengan IPK 3,65/4,00 yang memiliki minat pada teknologi informasi, pembelajaran mesin, analisis data, pengelolaan basis data, dan pengembangan website melalui proyek akademik. Memiliki pengalaman kerja di bidang dukungan TI dan penyuntingan media, termasuk konfigurasi perangkat, pemeliharaan website, serta publikasi konten digital. Teliti, disiplin, dan bertanggung jawab, serta berkomitmen mengikuti prosedur operasional standar (SOP), mengembangkan keterampilan teknis, dan mendukung kegiatan operasional secara profesional.",
 
     "hero.view": "Lihat Portofolio",
     "hero.about": "Tentang Saya",
