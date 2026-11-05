@@ -88,14 +88,14 @@ const translations = {
 
     "hero.role": "Penggemar Teknologi & Pengembang Web Pemula",
 
-    "hero.description": "Lulusan Teknik Informatika Universitas Malikussaleh dengan IPK 3,64/4,00 yang memiliki minat pada teknologi informasi, pembelajaran mesin, analisis data, pengelolaan basis data, dan pengembangan website melalui proyek akademik. Memiliki pengalaman kerja di bidang dukungan TI dan penyuntingan media, termasuk konfigurasi perangkat, pemeliharaan website, serta publikasi konten digital. Teliti, disiplin, dan bertanggung jawab, serta berkomitmen mengikuti prosedur operasional standar (SOP), mengembangkan keterampilan teknis, dan mendukung kegiatan operasional secara profesional.",
+    "hero.description": "Lulusan Teknik Informatika Universitas Malikussaleh dengan IPK 3,65/4,00 yang memiliki minat pada teknologi informasi, pembelajaran mesin, analisis data, pengelolaan basis data, dan pengembangan website melalui proyek akademik. Memiliki pengalaman kerja di bidang dukungan TI dan penyuntingan media, termasuk konfigurasi perangkat, pemeliharaan website, serta publikasi konten digital. Teliti, disiplin, dan bertanggung jawab, serta berkomitmen mengikuti prosedur operasional standar (SOP), mengembangkan keterampilan teknis, dan mendukung kegiatan operasional secara profesional.",
 
     "hero.view": "Lihat Portofolio",
     "hero.about": "Tentang Saya",
 
     "about.profile": "Profil",
 
-    "about.p1": "Lulusan Teknik Informatika Universitas Malikussaleh dengan IPK 3,64/4,00. Memiliki pengalaman selama lima bulan sebagai pekerja lepas di bidang manajemen media sosial serta enam bulan di bidang dukungan TI dan penyuntingan media. Pengalaman tersebut mencakup pengelolaan dan pembuatan konten media sosial, pemantauan kinerja website, serta penerapan dan penyempurnaan sistem. Selain pengetahuan teknis, pengalaman ini mengasah kemampuan komunikasi, kerja sama tim, adaptasi, dan pemecahan masalah untuk menghasilkan solusi yang bermanfaat.",
+    "about.p1": "Lulusan Teknik Informatika Universitas Malikussaleh dengan IPK 3,65/4,00. Memiliki pengalaman selama lima bulan sebagai pekerja lepas di bidang manajemen media sosial serta enam bulan di bidang dukungan TI dan penyuntingan media. Pengalaman tersebut mencakup pengelolaan dan pembuatan konten media sosial, pemantauan kinerja website, serta penerapan dan penyempurnaan sistem. Selain pengetahuan teknis, pengalaman ini mengasah kemampuan komunikasi, kerja sama tim, adaptasi, dan pemecahan masalah untuk menghasilkan solusi yang bermanfaat.",
 
     "about.p2": "Menguasai Microsoft Office, SQL, dan Google Workspace, serta memiliki pengetahuan dasar HTML, PHP, dan Python. Terampil menggunakan CapCut untuk penyuntingan konten.",
 
