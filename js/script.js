@@ -203,7 +203,7 @@ const translations = {
 
     "about.profile": "Profile",
 
-    "about.p1": "Informatics Engineering graduate from Universitas Malikussaleh with a GPA of 3.64/4.00. Has five months of freelance experience in social media management and six months of experience in IT support and media editing. This experience includes managing and creating social media content, monitoring website performance, and implementing and improving systems. Beyond technical knowledge, these roles strengthened communication, teamwork, adaptability, and problem-solving skills to deliver useful solutions.",
+    "about.p1": "Informatics Engineering graduate from Universitas Malikussaleh with a GPA of 3.65/4.00. Has five months of freelance experience in social media management and six months of experience in IT support and media editing. This experience includes managing and creating social media content, monitoring website performance, and implementing and improving systems. Beyond technical knowledge, these roles strengthened communication, teamwork, adaptability, and problem-solving skills to deliver useful solutions.",
 
     "about.p2": "Proficient in Microsoft Office, SQL, and Google Workspace, with basic knowledge of HTML, PHP, and Python. Skilled in using CapCut for content editing.",
 
