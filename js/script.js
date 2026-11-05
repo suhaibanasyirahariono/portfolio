@@ -95,7 +95,7 @@ const translations = {
 
     "about.profile": "Profil",
 
-    "about.p1": "Lulusan Teknik Informatika Universitas Malikussaleh dengan IPK 3,64/4,00. Memiliki pengalaman selama lima bulan sebagai pekerja lepas di bidang manajemen media sosial serta enam bulan di bidang dukungan TI dan penyuntingan media. Pengalaman tersebut mencakup pengelolaan dan pembuatan konten media sosial, pemantauan kinerja website, serta penerapan dan penyempurnaan sistem. Selain pengetahuan teknis, pengalaman ini mengasah kemampuan komunikasi, kerja sama tim, adaptasi, dan pemecahan masalah untuk menghasilkan solusi yang bermanfaat.",
+    "about.p1": "Lulusan Teknik Informatika Universitas Malikussaleh dengan IPK 3,65/4,00. Memiliki pengalaman selama lima bulan sebagai pekerja lepas di bidang manajemen media sosial serta enam bulan di bidang dukungan TI dan penyuntingan media. Pengalaman tersebut mencakup pengelolaan dan pembuatan konten media sosial, pemantauan kinerja website, serta penerapan dan penyempurnaan sistem. Selain pengetahuan teknis, pengalaman ini mengasah kemampuan komunikasi, kerja sama tim, adaptasi, dan pemecahan masalah untuk menghasilkan solusi yang bermanfaat.",
 
     "about.p2": "Menguasai Microsoft Office, SQL, dan Google Workspace, serta memiliki pengetahuan dasar HTML, PHP, dan Python. Terampil menggunakan CapCut untuk penyuntingan konten.",
 
@@ -196,7 +196,7 @@ const translations = {
 
     "hero.role": "Tech Enthusiast & Junior Web Developer",
 
-    "hero.description": "Informatics Engineering graduate from Universitas Malikussaleh with a GPA of 3.64/4.00 has an interest in information technology, machine learning, data analysis, database management, and website development gained through academic projects. Has work experience as an IT Support and Media Editing, including hardware configuration, website maintenance, and digital content publishing. Detail-oriented, disciplined, and responsible, with a commitment to following standard operating procedures (SOPs), continuously developing technical skills, and contributing professionally to dynamic operational activities goals.",
+    "hero.description": "Informatics Engineering graduate from Universitas Malikussaleh with a GPA of 3.65/4.00 has an interest in information technology, machine learning, data analysis, database management, and website development gained through academic projects. Has work experience as an IT Support and Media Editing, including hardware configuration, website maintenance, and digital content publishing. Detail-oriented, disciplined, and responsible, with a commitment to following standard operating procedures (SOPs), continuously developing technical skills, and contributing professionally to dynamic operational activities goals.",
 
     "hero.view": "View Portfolio",
     "hero.about": "About Me",
